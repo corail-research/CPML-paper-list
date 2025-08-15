@@ -16,7 +16,8 @@ All related references are listed following the template below:
 
 When available, a direct link to the paper is also provided. The structure of this repository mirrors the organization used in the survey paper.
 
+- [Papers on *Improving contraint programming with machine learning*](ML4CP/ml4cp-list.md) (Section 3.1 of the survey)
+- [Papers on *Improving machine learning with constraint programming*](CP4ML/cp4ml-list.md) (Section 3.2 of the survey)
 
-## Improving contraint programming with machine learning
 
 
