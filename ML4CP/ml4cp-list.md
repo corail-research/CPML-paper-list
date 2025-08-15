@@ -1,6 +1,10 @@
 
 ## Improving contraint programming with machine learning
 
+This list categorizes key research directions in the the role of ML in enhancing the CP pipeline.
+
+---
+
 ### 1. Learning to model - Learning constraints 
 
 - [AIJ'2017] [Constraint acquisition](https://www.sciencedirect.com/science/article/pii/S0004370215001162)
@@ -26,6 +30,8 @@
 - REF
 - REF
 
+---
+
 ### 2. Learning to model - Learning the objective function 
 
 #### 2.1 Passive learning
@@ -40,7 +46,8 @@
 - REF
 - REF
 
-     
+---
+
 ### 3. Learning to model - Automatic model generation 
 
 #### 3.1 Approaches for generation
@@ -54,6 +61,8 @@
 - REF
 - REF
 - REF
+
+---
 
 ### 4. Learning to branch
 
@@ -82,7 +91,7 @@
 - REF
 
 
-
+---
 ### 5. Learning to reason
 
 #### 5.1 Deductive learning of nogoods
@@ -96,6 +105,8 @@
 - REF
 - REF
 - REF
+
+---
 
 ### 6. Reshaping the solver engine
 
@@ -120,6 +131,7 @@
 - REF
 
 
+---
 
 ### 7. Learning to configure a CP solver
 
@@ -129,10 +141,13 @@
 #### 7.4 Acceleration techniques
 
 
-   
+---
+
 ### 8. Learning for generic and specific combinatorial problems
 
 #### 8.1 Resource constrained project scheduling problem (RCPSP)
 #### 8.2 Job shop scheduling problem (JSSP)
 #### 8.3 Cyclic hoist scheduling problem (CHSP)
 #### 8.4 Generic representation of combinatorial problems
+
+---
