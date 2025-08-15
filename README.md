@@ -1,2 +1,8 @@
 # CPML-paper-list
-List of papers related to the integration of constraint programming together with machine learning. This is an accompanying repository to the paper "Combining Constraint Programming and Machine Learning: From Current Progress to Future Opportunities" (JAIR 2025)
+
+## Overview
+This repository aims to serve as a (hopefully) comprehensive list of publications related to the integration of Constraint Programming (CP) and Machine Learning (ML). It accompanies the survey paper "Combining Constraint Programming and Machine Learning: From Current Progress to Future Opportunities" (JAIR, 2025).
+
+## Contributing
+The initial set of references corresponds to those discussed in the survey. Over time, we hope the repository evolves into a living collection that reflects the growing body of research in this area.
+We encourage the community to contribute new references via pull requests. Contribution guidelines are provided below.
