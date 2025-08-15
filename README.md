@@ -21,13 +21,12 @@ When available, a direct link to the paper is also provided. The structure of th
 
 ### 1. Learning to model - Learning constraints 
 
-#### 1.1 General references
 
 - REF
 - REF
 - REF
-- 
-#### 1.2 Passive constraint acquisition
+  
+#### 1.1 Passive constraint acquisition
 
 - *Search-based approaches*
    - ff
@@ -38,7 +37,7 @@ When available, a direct link to the paper is also provided. The structure of th
 - *Generalizing constraint models*
    - ff
 
-#### 1.3 Interactive constraint acquisition
+#### 1.2 Interactive constraint acquisition
 
 - *Membership queries*
    - ff
@@ -50,7 +49,7 @@ When available, a direct link to the paper is also provided. The structure of th
    - ff
 
 
-#### 1.4 Learning and constraining complex functions
+#### 1.3 Learning and constraining complex functions
 
 - *Empirical model learning*
    - ff
@@ -62,7 +61,38 @@ When available, a direct link to the paper is also provided. The structure of th
 
 ### 2. Learning to model - Learning the objective function 
 
+#### 2.1 Passive learning
+
+- *Classical inverse optimization*
+   - ff
+- *Structured output prediction*
+   - dd
+- *Simple probabilistic models*
+   - dd
+- *Richer probabilistic models*
+   - ff
+   - ff
+
+#### 2.2 Interactive learning
+
+- REF
+- REF
+- REF
+
+     
 ### 3. Learning to model - Automatic model generation 
+
+#### 3.1 Approaches for generation
+
+- REF
+- REF
+- REF
+  
+#### 3.2 Benchmarks and competitions
+
+- REF
+- REF
+- REF
 
 ### 4. Learning to branch
 
