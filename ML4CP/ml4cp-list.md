@@ -3,7 +3,8 @@
 
 ### 1. Learning to model - Learning constraints 
 
-
+- [AIJ'2017] [Constraint acquisition](https://www.sciencedirect.com/science/article/pii/S0004370215001162)
+- [AAAI'2018] [Learning constraints from examples](https://ojs.aaai.org/index.php/AAAI/article/view/12217)
 
   
 #### 1.1 Passive constraint acquisition
