@@ -9,7 +9,9 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 - [AIJ'2017] [Constraint acquisition](https://www.sciencedirect.com/science/article/pii/S0004370215001162)
 - [AAAI'2018] [Learning constraints from examples](https://ojs.aaai.org/index.php/AAAI/article/view/12217)
-
+- [AIJ'2023] [Learning constraints through partial queries](https://www.sciencedirect.com/science/article/abs/pii/S0004370223000425)
+- [CPAIOR'2024] [Acquiring Constraints for a Non-linear Transmission Maintenance Scheduling Problem](https://link.springer.com/chapter/10.1007/978-3-031-60597-0_3)
+- [JAIR'2025] [A Query-Based Constraint Acquisition Approach for Enhanced Precision in Program Precondition Inference](https://www.jair.org/index.php/jair/article/view/16206)
   
 #### 1.1 Passive constraint acquisition
 
