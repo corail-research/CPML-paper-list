@@ -15,9 +15,14 @@ This list categorizes key research directions in the the role of ML in enhancing
   
 #### 1.1 Passive constraint acquisition
 
-- REF
-- REF
-- REF
+- [ECML'2005] [A SAT-based version space algorithm for acquiring constraint satisfaction problems](https://link.springer.com/chapter/10.1007/11564096_8)
+- [CP'2022] [Constraint acquisition based on solution counting](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.15)
+- [IJCAI'2023] [Learning constraint networks over unknown constraint languages](https://www.ijcai.org/proceedings/2023/208)
+- [AMAA'2021] [Classifier-based constraint acquisition](https://link.springer.com/article/10.1007/s10472-021-09736-4)
+- [ECAI'2020] [Robust constraint acquisition by sequential analysis](https://ebooks.iospress.nl/volumearticle/54908)
+- [IJAR'2024] [A statistical approach to learning constraints](https://www.sciencedirect.com/science/article/pii/S0888613X24000719)
+- [AAAI'2024] [What are the rules? Discovering constraints from data](https://ojs.aaai.org/index.php/AAAI/article/view/28658)
+- [ICTAI'2021] [Unsupervised constraint acquisition](https://ieeexplore.ieee.org/document/9643314/)
 
 #### 1.2 Interactive constraint acquisition
 
