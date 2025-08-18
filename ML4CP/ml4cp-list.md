@@ -52,6 +52,18 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [CPAIOR'2018] [Time-Bounded Query Generator for Constraint Acquisition](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_1)
 - [SDCI'2019] [Pa-QUACQ: Algorithm for Constraint Acquisition System](https://link.springer.com/chapter/10.1007/978-3-030-11914-0_27)
 - [Constraints'2020] [Efficient multiple constraint acquisition](https://link.springer.com/article/10.1007/s10601-020-09311-4)
+- [AAAI'2024] [Learning to learn in interactive constraint acquisition](https://dl.acm.org/doi/10.1609/aaai.v38i8.28655)
+- [CP'2020] [Omissions in Constraint Acquisition](https://dl.acm.org/doi/10.1007/978-3-030-58475-7_54)
+- [IJCAI'2016] [Constraint Acquisition Using Recommendation Queries](https://dl.acm.org/doi/abs/10.5555/3060621.3060722)
+- [ICTAI'202] [Machine Learning Based Recommendation Queries for Constraint Acquisition](https://ieeexplore.ieee.org/abstract/document/10849506/)
+- [ECAI'2014] [Boosting Constraint Acquisition via Generalization Queries](https://ebooks.iospress.nl/publication/36923)
+- [ICTAI'2015] [Detecting types of variables for generalization in constraint acquisition](https://ieeexplore.ieee.org/document/7372165)
+- [IJCAI'2024] [Using large language models to improve query-based constraint acquisition](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/212)
+- [KR'2023] [Active disjunctive constraint acquisition](https://proceedings.kr.org/2023/50/)
+- [AAAI'2022] [GEQCA: Generic qualitative constraint acquisition](https://ojs.aaai.org/index.php/AAAI/article/view/20282)
+- [JAIR'2024] [Query-driven Qualitative Constraint Acquisition](https://jair.org/index.php/jair/article/view/14752)
+- [IJSEKE'2023] [Exact learning of qualitative constraint networks from membership queries](https://www.worldscientific.com/doi/10.1142/S0218194023500171)
+- [CP'2021] [Learning Max-CSPs via active constraint acquisition](http://dagstuhl.sunsite.rwth-aachen.de/opus/frontdoor.php?source_opus=15345)
 
 
 #### 1.3 Learning and constraining complex functions
