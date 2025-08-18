@@ -37,9 +37,21 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 1.2 Interactive constraint acquisition
 
-- REF
-- REF
-- REF
+- [COLT'1994] [Oracles and queries that are sufficient for exact learning](https://www.sciencedirect.com/science/article/pii/S002200009690032X)
+- [InfComput'1995] [Exact learning boolean functions via the monotone theory](https://www.sciencedirect.com/science/article/pii/S0890540185711649)
+- [ML'1988] [Queries and concept learning](https://link.springer.com/article/10.1023/A:1022821128753)
+- [IJCAI'2007] [Query-Driven Constraint Acquisition](https://dl.acm.org/doi/10.5555/1625275.1625282)
+- [IJCAI'2013] [Constraint Acquisition via Partial Queries](https://dl.acm.org/doi/10.5555/2540128.2540198)
+- [IJCAI'2016] [Multiple Constraint Acquisition](https://www.ijcai.org/Abstract/16/105)
+- [AIJ'2023] [Learning constraints through partial queries](https://www.sciencedirect.com/science/article/abs/pii/S0004370223000425)
+- [DM&CP'2016] [New approaches to constraint acquisition](https://hal.science/hal-01606245v1)
+- [CP'2018] [Efficient Methods for Constraint Acquisition](https://link.springer.com/chapter/10.1007/978-3-319-98334-9_25)
+- [CP'2019] [Structure-Driven Multiple Constraint Acquisition](https://link.springer.com/chapter/10.1007/978-3-030-30048-7_41)
+- [AAAI'2021] [Parallel constraint acquisition](https://ojs.aaai.org/index.php/AAAI/article/view/16504)
+- [CP'2023] [Guided Bottom-Up Interactive Constraint Acquisition](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.36)
+- [CPAIOR'2018] [Time-Bounded Query Generator for Constraint Acquisition](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_1)
+- [SDCI'2019] [Pa-QUACQ: Algorithm for Constraint Acquisition System](https://link.springer.com/chapter/10.1007/978-3-030-11914-0_27)
+- [Constraints'2020] [Efficient multiple constraint acquisition](https://link.springer.com/article/10.1007/s10601-020-09311-4)
 
 
 #### 1.3 Learning and constraining complex functions
