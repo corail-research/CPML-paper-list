@@ -32,6 +32,7 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [CP'2022] [Learning constraint programming models from data using generate-and-aggregate](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.29)
 - [IJCAI'2022-Workshop] [Extrapolating Constraint Networks by Symbolic Classification](https://cora.ucc.ie/items/83a5c4c6-3db0-457a-bc88-2d6c7cf9ceca)
 - [AAAI'2025] [Generalizing Constraint Models in Constraint Acquisition](https://dl.acm.org/doi/10.1609/aaai.v39i11.33236)
+- [SETN'2024] [The Impact of Solution Diversity on Passive Constraint Acquisition](https://dl.acm.org/doi/10.1145/3688671.3688759)
 
 
 #### 1.2 Interactive constraint acquisition
