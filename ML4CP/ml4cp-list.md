@@ -23,6 +23,11 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [IJAR'2024] [A statistical approach to learning constraints](https://www.sciencedirect.com/science/article/pii/S0888613X24000719)
 - [AAAI'2024] [What are the rules? Discovering constraints from data](https://ojs.aaai.org/index.php/AAAI/article/view/28658)
 - [ICTAI'2021] [Unsupervised constraint acquisition](https://ieeexplore.ieee.org/document/9643314/)
+- [CP'2011] [A constraint seeker: Finding and ranking global constraints from examples](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_4)
+- [CP'2012] [A model seeker: Extracting global constraint models from positive examples](https://link.springer.com/chapter/10.1007/978-3-642-33558-7_13)
+- [IJAIT'2024] [Enhancing Constraint Acquisition through Hybrid Learning: An Integration of Passive and Active Learning Strategies](https://www.worldscientific.com/doi/10.1142/S0218213024500209)
+- [CP'2016] [Learning parameters for the sequence constraint from solutions](https://link.springer.com/chapter/10.1007/978-3-319-44953-1_26)
+- [CP'2017] [Learning the parameters of global constraints using branch-and-bound](https://link.springer.com/chapter/10.1007/978-3-319-66158-2_33)
 
 #### 1.2 Interactive constraint acquisition
 
