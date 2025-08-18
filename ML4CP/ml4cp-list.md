@@ -68,9 +68,10 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 1.3 Learning and constraining complex functions
 
-- REF
-- REF
-- REF
+- [AIJ'2017] [Empirical decision model learning](https://www.sciencedirect.com/science/article/pii/S0004370216000126)
+- [CP'2011] [Neuron constraints to model complex real-world problems](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_11)
+- [Constraints'2016] [A lagrangian propagator for artificial neural networks in constraint programming](https://link.springer.com/article/10.1007/s10601-015-9234-6)
+- [CPAIOR'2015] [Embedding decision trees and random forests in constraint programming](https://link.springer.com/chapter/10.1007/978-3-319-18008-3_6)
 
 ---
 
