@@ -28,6 +28,11 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [IJAIT'2024] [Enhancing Constraint Acquisition through Hybrid Learning: An Integration of Passive and Active Learning Strategies](https://www.worldscientific.com/doi/10.1142/S0218213024500209)
 - [CP'2016] [Learning parameters for the sequence constraint from solutions](https://link.springer.com/chapter/10.1007/978-3-319-44953-1_26)
 - [CP'2017] [Learning the parameters of global constraints using branch-and-bound](https://link.springer.com/chapter/10.1007/978-3-319-66158-2_33)
+- [ICTAI'2010] [On learning constraint problems](https://ieeexplore.ieee.org/document/5670015/)
+- [CP'2022] [Learning constraint programming models from data using generate-and-aggregate](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.29)
+- [IJCAI'2022-Workshop] [Extrapolating Constraint Networks by Symbolic Classification](https://cora.ucc.ie/items/83a5c4c6-3db0-457a-bc88-2d6c7cf9ceca)
+- [AAAI'2025] [Generalizing Constraint Models in Constraint Acquisition](https://dl.acm.org/doi/10.1609/aaai.v39i11.33236)
+
 
 #### 1.2 Interactive constraint acquisition
 
