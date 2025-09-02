@@ -113,18 +113,15 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [IJCAI'2016] [Constraint detection in natural language problem descriptions](https://dl.acm.org/doi/10.5555/3060621.3060725)
 - [PTHG'2019] [User-oriented solving and explaining of natural language logic grid puzzles](https://www.bartbogaerts.eu/articles/2019/005-HG-Zebra/ZebraTutor.pdf)
 - [EMNLP'2020] [LGPSolver - Solving Logic Grid Puzzles Automatically](https://aclanthology.org/2020.findings-emnlp.100/)
-- [Constraints'2024] [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
-- [NeurIPS'2022] [NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions](https://proceedings.mlr.press/v220/ramamonjison23a.html)
 - [ArXiv'2021] [Evaluating large language models trained on code](https://arxiv.org/abs/2107.03374)
 - [CP'2024] [Constraint modelling with LLMs using in-context learning](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.20)
-- [ECAI'2025] [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/abs/2506.06052v1)
-- 
+
   
 #### 3.2 Benchmarks and competitions
 
-- REF
-- REF
-- REF
+- [Constraints'2024] [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
+- [NeurIPS'2022] [NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions](https://proceedings.mlr.press/v220/ramamonjison23a.html)
+- [ECAI'2025] [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/abs/2506.06052v1)
 
 ---
 
