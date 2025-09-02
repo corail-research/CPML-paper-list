@@ -169,16 +169,20 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 5.1 Deductive learning of nogoods
 
-- REF
-- REF
-- REF
+- [Constraints'2009] [Propagation via lazy clause generation](https://link.springer.com/article/10.1007/s10601-008-9064-x)
+- [CP'2012] [Inter-instance nogood learning in constraint programming](https://link.springer.com/chapter/10.1007/978-3-642-33558-7_19)
+- [CP'2016] [Learning from learning solver](https://link.springer.com/chapter/10.1007/978-3-319-44953-1_29)
+- [CP'2018] [Towards semi-automatic learning-based model transformation](https://link.springer.com/chapter/10.1007/978-3-319-98334-9_27)
+- [AIJ'2016] [Learning general constraints in CSP](https://www.sciencedirect.com/science/article/pii/S0004370216300650)
 
 #### 5.2 Learning Lagrangian multipliers in CP
 
-- REF
-- REF
-- REF
-
+- [CP'1999] [Cost-based domain filtering](https://link.springer.com/chapter/10.1007/978-3-540-48085-3_14)
+- [CP'2004] [Theoretical foundations of CP-based lagrangian relaxation](https://link.springer.com/chapter/10.1007/978-3-540-30201-8_46)
+- [Constraints'2012] [Improved filtering for weighted circuit constraints](https://link.springer.com/article/10.1007/s10601-012-9119-x)
+- [CP'2024] [Learning Lagrangian Multipliers for the Travelling Salesman Problem](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.22)
+- [CP'2015] [General bounding mechanism for constraint programs](https://link.springer.com/chapter/10.1007/978-3-319-23219-5_12)
+- [AAAI'2025] [Learning Valid Dual Bounds in Constraint Programming: Boosted Lagrangian Decomposition with Self-Supervised Learning](https://dl.acm.org/doi/10.1609/aaai.v39i11.33208)
 ---
 
 ### 6. Reshaping the solver engine
