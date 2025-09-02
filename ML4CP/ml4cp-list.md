@@ -152,15 +152,16 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 4.3 Online value-selection heuristic
 
-- REF
-- REF
-- REF
+- [CP'2004] [Impact-based search strategies for constraint programming](https://link.springer.com/chapter/10.1007/978-3-540-30201-8_41)
+- [CPAIOR'2012] [Activity-based search for black-box constraint programming solvers](https://dl.acm.org/doi/abs/10.1007/978-3-642-29828-8_15)
 
 #### 4.4 Offline value-selection heuristic
 
-- REF
-- REF
-- REF
+- [CPAIOR'2015] [Learning value heuristics for constraint programming](https://link.springer.com/chapter/10.1007/978-3-319-18008-3_8)
+- [AAAI'2021] [Combining reinforcement learning and constraint programming for combinatorial optimization](https://ojs.aaai.org/index.php/AAAI/article/view/16484)
+- [CPAIOR'2021] [Seapearl: A constraint programming solver guided by reinforcement learning](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_25)
+- [CP'2023] [Learning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.25)
+- [Constraints'2024] [Learning and fine-tuning a generic value-selection heuristic inside a constraint programming solver](https://link.springer.com/article/10.1007/s10601-024-09377-4)
 
 
 ---
