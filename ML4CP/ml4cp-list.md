@@ -119,8 +119,9 @@ This list categorizes key research directions in the the role of ML in enhancing
   
 #### 3.2 Benchmarks and competitions
 
-- [Constraints'2024] [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
 - [NeurIPS'2022] [NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions](https://proceedings.mlr.press/v220/ramamonjison23a.html)
+- [Constraints'2024] [Ner4Opt: named entity recognition for optimization modelling from natural language](https://link.springer.com/article/10.1007/s10601-024-09376-5)
+- [ArXiv'2025] [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/abs/2503.10642)
 - [ECAI'2025] [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/abs/2506.06052v1)
 
 ---
