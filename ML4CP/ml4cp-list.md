@@ -94,9 +94,15 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 2.2 Interactive learning
 
-- REF
-- REF
-- REF
+- [AAAI'1997] [A constraint-based approach to preference elicitation and decision making](https://www.cs.toronto.edu/~cebly/Papers/_download_/preferences.pdf)
+- [AIJ'2010] [Elicitation strategies for soft constraint problems with missing preferences: Properties, algorithms and experimental studies](https://www.sciencedirect.com/science/article/pii/S0004370209001453)
+- [AIJ'2006] [Constraint-based optimization and utility elicitation using the minimax decision criterion](https://www.sciencedirect.com/science/article/pii/S0004370206000245)
+- [SUM'2019] [An interactive polyhedral approach for multi-objective combinatorial optimization with incomplete preference information](https://link.springer.com/chapter/10.1007/978-3-030-35514-2_17)
+- [DA2PL'2020] [Bayesian preference elicitation for multiobjective combinatorial optimization](https://hal.science/hal-02979845v1)
+- [IJCAI'2016] [Constructive preference elicitation by setwise max-margin learning](https://dl.acm.org/doi/10.5555/3060832.3060910)
+- [AAAI'2018] [Constructive preference elicitation over hybrid combinatorial spaces](https://dl.acm.org/doi/10.5555/3504035.3504394)
+- [JAIR'2015] [Coactive learning](https://jair.org/index.php/jair/article/view/10939)
+- [IIS'2024] [“I Want It That Way”: Enabling Interactive Decision Support Using Large Language Models and Constraint Programming](https://dl.acm.org/doi/10.1145/3685053)
 
 ---
 
