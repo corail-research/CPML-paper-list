@@ -147,9 +147,8 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 4.2 Offline variable-selection heuristic
 
-- REF
-- REF
-- REF
+- [CPAIOR'2021] [Learning variable activity initialisation for lazy clause generation solvers](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_4)
+- [EAAI'2022] [Learning variable ordering heuristics for solving constraint satisfaction problems](https://www.sciencedirect.com/science/article/abs/pii/S0952197621004255)
 
 #### 4.3 Online value-selection heuristic
 
