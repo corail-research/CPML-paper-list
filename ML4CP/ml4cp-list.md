@@ -130,9 +130,20 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 4.1 Online variable-selection heuristic
 
-- REF
-- REF
-- REF
+- [ECAI'2004] [Boosting systematic search by weighting constraints](https://dl.acm.org/doi/10.5555/3000001.3000033)
+- [FLAIRS'2007] [Learning to Identify Global Bottlenecks in Constraint Satisfaction Search](https://aaai.org/papers/flairs-2007-116/)
+- [ICTAI'2019] [Refining constraint weighting](https://ieeexplore.ieee.org/document/8995307/)
+- [ACM-Symposium'2019] [Conflict history based search for constraint satisfaction problem](https://dl.acm.org/doi/10.1145/3297280.3297389)
+- [CP'2023] [Guiding Backtrack Search by Tracking Variables During Constraint Propagation](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.9)
+- [CP'2021] [Failure based variable ordering heuristics for solving CSPs](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2021.9)
+- [ICTAI'2014] [Correlation heuristics for constraint programming](https://ieeexplore.ieee.org/document/8372062)
+- [AAAI'2018] [Learning robust search strategies using a bandit-based approach](https://ojs.aaai.org/index.php/AAAI/article/view/12211)
+- [ECAI'2020] [Learning variable ordering heuristics with multi-armed bandits and restarts](https://ebooks.iospress.nl/volumearticle/54910)
+- [IJCAI'2022] [Best heuristic identification for constraint satisfaction](https://www.ijcai.org/proceedings/2022/258)
+- [ICTAI'2020] [On the Refinement of Conflict History Search Through Multi-Armed Bandit](https://ieeexplore.ieee.org/document/9288317)
+- [AMAI'2022] [Online learning of variable ordering heuristics for constraint optimisation problems](https://link.springer.com/article/10.1007/s10472-022-09816-z)
+- [CP'2022] [A portfolio-based approach to select efficient variable ordering heuristics for constraint satisfaction problems](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.32)
+- [AAAI'2025] [Prediction-Based Adaptive Variable Ordering Heuristics for Constraint Satisfaction Problems](https://ojs.aaai.org/index.php/AAAI/article/view/33239)
 
 #### 4.2 Offline variable-selection heuristic
 
