@@ -188,25 +188,29 @@ This list categorizes key research directions in the the role of ML in enhancing
 ### 6. Reshaping the solver engine
 
 #### 6.1 Adaptive large neighborhood search
-- REF
-- REF
-- REF
+- [CP'1998] [Using Constraint Programming and Local Search Methods to Solve Vehicle Routing Problems](https://link.springer.com/chapter/10.1007/3-540-49481-2_30)
+- [MISTA'2007] [Self-adapting large neighborhood search: Application to single-mode scheduling problems](https://www.semanticscholar.org/paper/Self-Adapting-Large-Neighborhood-Search%3A-to-Laborie-Godard/f0b2d8d701f0bb14a47dcde59ca2884120b7f26c)
+- [CPAIOR'2018] [Revisiting the self-adaptive large neighborhood search](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_40)
 
 #### 6.2 Monte-Carlo tree search
-- REF
-- REF
-- REF
+- [ICCG'2006] [Efficient selectivity and backup operators in Monte-Carlo tree search](https://link.springer.com/chapter/10.1007/978-3-540-75538-8_7)
+- [LION'2013] [Hybridizing constraint programming and monte-carlo tree search: Application to the job shop problem](https://link.springer.com/chapter/10.1007/978-3-642-44973-4_35)
+- [CP'2013] [Bandit-based search for constraint programming](https://link.springer.com/chapter/10.1007/978-3-642-40627-0_36)
+- [CP'2021] [Combining Monte Carlo tree search and depth first search methods for a car manufacturing workshop scheduling problem](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2021.14)
+- [LION'2023] [Learn, Compare, Search: One Sawmill’s Search for the Best Cutting Patterns Across and/or Trees](https://dl.acm.org/doi/10.1007/978-3-031-44505-7_37)
 
 #### 6.3 Solvers augmented with belief propagation
-- REF
-- REF
-- REF
+- [AAAI'1982] [Reverend Bayes on Inference Engines: {A} Distributed Hierarchical Approach](https://dl.acm.org/doi/10.5555/2876686.2876719)
+- [JAIR'2019] [From support propagation to belief propagation in constraint programming](https://jair.org/index.php/jair/article/view/11487)
+- [CPAIOR'2023] [Exploiting Entropy in Constraint Programming](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_21)
 
 #### 6.4 Skipping the search phase
-- REF
-- REF
-- REF
-
+- [CPAIOR'2018] [Model agnostic solution of CSPs via deep learning: A preliminary study](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_18)
+- [CP'2018] [Towards effective deep learning for constraint satisfaction problems](https://link.springer.com/chapter/10.1007/978-3-319-98334-9_38)
+- [CP'2023] [FastMapSVM for Predicting CSP Satisfiability](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.40)
+- [ICAPS'2023] [An end-to-end reinforcement learning approach for job-shop scheduling problems based on constraint programming](https://dl.acm.org/doi/10.1609/icaps.v33i1.27243)
+- [ICML'2025] [{ZebraLogic}: On the Scaling Limits of {LLM}s for Logical Reasoning](https://openreview.net/forum?id=sTAJ9QyA6l)
+- [EMNLP'2024] [Puzzle Solving using Reasoning of Large Language Models: A Survey](https://aclanthology.org/2024.emnlp-main.646/) 
 
 ---
 
