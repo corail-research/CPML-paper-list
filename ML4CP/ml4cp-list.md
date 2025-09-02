@@ -79,9 +79,18 @@ This list categorizes key research directions in the the role of ML in enhancing
 
 #### 2.1 Passive learning
 
-- REF
-- REF
-- REF
+- [OR'2025] [Inverse optimization: Theory and applications](https://pubsonline.informs.org/doi/10.1287/opre.2022.0382)
+- [NIPS'2007] [Predicting Structured Data](https://mitpress.mit.edu/9780262528047/predicting-structured-data/)
+- [EMNLP'2002] [Discriminative training methods for hidden markov models: Theory and experiments with perceptron algorithms](https://aclanthology.org/W02-1001/)
+- [ICML'2022] [Decision-focused learning: Through the lens of learning to rank](https://proceedings.mlr.press/v162/mandi22a.html)
+- [CPAIOR'2024] [An Efficient Structured Perceptron for {NP}-Hard Combinatorial Optimization Problems](dl.acm.org/doi/10.1007/978-3-031-60599-4_17)
+- [CP'2019] [Vehicle routing by learning from historical solutions](https://link.springer.com/chapter/10.1007/978-3-030-30048-7_4)
+- [CP'2021] [Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2021.42)
+- [Constraints'2023] [Learn and route: learning implicit preferences for vehicle routing](https://link.springer.com/article/10.1007/s10601-023-09363-2)
+- [CP'2020] [Pushing data into CP models using graphical model learning and solving](https://dl.acm.org/doi/10.1007/978-3-030-58475-7_47)
+- [IJCAI'1995] [Valued constraint satisfaction problems: Hard and easy problems](https://dl.acm.org/doi/10.5555/1625855.1625938)
+- [CP'2015] [Anytime hybrid best-first search with tree decomposition for weighted CSP](https://link.springer.com/chapter/10.1007/978-3-319-23219-5_2)
+- [IJCAI'2023] [Scalable Coupling of Deep Learning with Logical Reasoning](https://www.ijcai.org/proceedings/2023/402)
 
 #### 2.2 Interactive learning
 
