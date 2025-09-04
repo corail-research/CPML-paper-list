@@ -215,11 +215,28 @@ This list categorizes key research directions in the the role of ML in enhancing
 ---
 
 ### 7. Learning to configure a CP solver
-
+- [Computers'1976] [The algorithm selection problem](https://www.sciencedirect.com/science/article/abs/pii/S0065245808605203)
+- [OR'2006] [Fine-tuning of algorithms using fractional experimental designs and local search](https://pubsonline.informs.org/doi/abs/10.1287/opre.1050.0243)
 #### 7.1 Optimized configurations for entire problem classes
+- [Constraints'1996] [Automatically configuring constraint satisfaction programs: A case study](https://link.springer.com/article/10.1007/BF00143877)
 #### 7.2 Instance-specific methods
+- [ECAI'2004] [Learning techniques for automatic algorithm portfolio selection](https://dl.acm.org/doi/10.5555/3000001.3000101)
+- [ICCBR'2005] [Using CBR to select solution strategies in constraint programming](https://link.springer.com/chapter/10.1007/11536406_19)
+- [CPAIOR'2014] [Proteus: A hierarchical portfolio of solvers and transformations](https://link.springer.com/chapter/10.1007/978-3-319-07046-9_22)
+- [ArXiv'2010] [Machine learning for constraint solver design--A case study for the alldifferent constraint](https://arxiv.org/abs/1008.4326)
+- [ICAICS'2008] [Using case-based reasoning in an algorithm portfolio for constraint solving](https://homepages.laas.fr/ehebrard/papers/aics2008.pdf)
+- [TPLP'2014] [SUNNY: a lazy portfolio approach for constraint solving](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/abs/sunny-a-lazy-portfolio-approach-for-constraint-solving/F65F2BB44129A947982CF74830665F73)
+- [ACM-Symposium'2015] [SUNNY-CP: a sequential CP portfolio solver](https://dl.acm.org/doi/10.1145/2695664.2695741)
+- [JAIR'2021] [sunny-as2: Enhancing {SUNNY} for algorithm selection](https://jair.org/index.php/jair/article/view/13116)
+- [ECAI'2010] [ISAC -- instance-specific algorithm configuration](https://dl.acm.org/doi/10.5555/1860967.1861114)
+- [LION'2011] [Sequential model-based optimization for general algorithm configuration](https://link.springer.com/chapter/10.1007/978-3-642-25566-3_40)
 #### 7.3 Configuration from instance descriptions
-#### 7.4 Acceleration techniques
+- [ECML-PKDD'2013] [SNNAP: Solver-based nearest neighbor for algorithm portfolios](https://link.springer.com/chapter/10.1007/978-3-642-40994-3_28)
+- [ICAML'2022] [Opening the black box: Automated software analysis for algorithm selection](https://proceedings.mlr.press/v188/pulatov22a.html)
+- [AAAI'2016] [Deep learning for algorithm portfolios](https://aaai.org/papers/10170-deep-learning-for-algorithm-portfolios/)
+#### 7.4 Portfolio-based algorithm selection
+
+#### 7.5 Acceleration techniques
 
 
 ---
