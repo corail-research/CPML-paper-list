@@ -235,17 +235,35 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [ICAML'2022] [Opening the black box: Automated software analysis for algorithm selection](https://proceedings.mlr.press/v188/pulatov22a.html)
 - [AAAI'2016] [Deep learning for algorithm portfolios](https://aaai.org/papers/10170-deep-learning-for-algorithm-portfolios/)
 #### 7.4 Portfolio-based algorithm selection
-
+- [CP'2011] [Algorithm selection and scheduling](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_35)
+- [CP'2012] [Parallel {SAT} solver selection and scheduling](https://link.springer.com/chapter/10.1007/978-3-642-33558-7_38)
+- [LION'2015] [From sequential algorithm selection to parallel portfolio selection](https://link.springer.com/chapter/10.1007/978-3-319-19084-6_1)
+- [ECAI'2023] [Automatic Parallel Portfolio Selection](https://ebooks.iospress.nl/doi/10.3233/FAIA230398)
 #### 7.5 Acceleration techniques
-
+- [JMLR'2022] [SMAC3: A versatile Bayesian optimization package for hyperparameter optimization](https://www.jmlr.org/papers/v23/21-0888.html)
+- [CPAIOR'2022] [Model-Based Algorithm Configuration with Adaptive Capping and Prior Distributions](https://link.springer.com/chapter/10.1007/978-3-031-08011-1_6)
+- [CP'2024] [Frugal Algorithm Selection](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.38)
 
 ---
 
 ### 8. Learning for generic and specific combinatorial problems
 
 #### 8.1 Resource constrained project scheduling problem (RCPSP)
+- [ICAPS'2024] [Fast and robust resource-constrained scheduling with graph neural networks](https://ojs.aaai.org/index.php/ICAPS/article/view/27244)
+- [CP'2024] [Learning Precedences for Scheduling Problems with Graph Neural Networks](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.30)
 #### 8.2 Job shop scheduling problem (JSSP)
+- [WSC'2022] [Imitation learning for real-time job shop scheduling using graph-based representation](https://ieeexplore.ieee.org/document/10015445/)
+- [ICAPS'2023] [An end-to-end reinforcement learning approach for job-shop scheduling problems based on constraint programming](https://ojs.aaai.org/index.php/ICAPS/article/view/27243)
+- [KBS'2024] [Enhancing constraint programming via supervised learning for job shop scheduling](https://www.sciencedirect.com/science/article/pii/S0950705124003332)
 #### 8.3 Cyclic hoist scheduling problem (CHSP)
+- [CPAIOR'2023] [Predicting the Optimal Period for Cyclic Hoist Scheduling Problems](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_16)
 #### 8.4 Generic representation of combinatorial problems
+- [NeurIPS'2019] [Exact combinatorial optimization with graph convolutional neural networks](https://papers.nips.cc/paper_files/paper/2019/hash/d14c2267d848abeb81fd590f371d39bd-Abstract.html)
+- [CPAIOR'2021] [Seapearl: A constraint programming solver guided by reinforcement learning](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_25)
+- [CP'2023] [Learning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.25)
+- [Constraints'2024] [Learning and fine-tuning a generic value-selection heuristic inside a constraint programming solver](https://link.springer.com/article/10.1007/s10601-024-09377-4)
+- [CPAIOR'2024] [Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches](https://link.springer.com/chapter/10.1007/978-3-031-60597-0_7)
+- [IJCAI'2023] [One model, any CSP: graph neural networks as fast global search heuristics for constraint satisfaction](https://www.ijcai.org/proceedings/2023/476)
+- [ICML'2025] [Self-Supervised Transformers as Iterative Solution Improvers for Constraint Satisfaction](https://openreview.net/forum?id=IQN6ID0snT)
 
 ---
