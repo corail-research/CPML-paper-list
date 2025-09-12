@@ -45,6 +45,8 @@ This list categorizes key research directions in the the role of CP in enhancing
 - [IDA'2015] [Constraint-Based Querying for {B}ayesian Network Exploration](https://link.springer.com/chapter/10.1007/978-3-319-24465-5_2)
   
 #### 1.5 Neural networks
+- [PACT'1996] [Evolutionary training of CLP-constrained neural networks](https://repository.ubn.ru.nl/bitstream/handle/2066/84496/84496.pdf)
+- [CP'2019] [Training binarized neural networks using MIP and CP](https://link.springer.com/chapter/10.1007/978-3-030-30048-7_24)
 
 ---
 ### 2. CP-based loss functions
