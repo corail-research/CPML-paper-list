@@ -26,8 +26,24 @@ This list categorizes key research directions in the the role of CP in enhancing
 - [IDA'2023] [Explanations for Itemset Mining by Constraint Programming: A Case Study Using ChEMBL Data](https://link.springer.com/chapter/10.1007/978-3-031-30047-9_17)
   
 #### 1.2 Clustering
+- [CP'2015] [Constrained minimum sum of squares clustering by constraint programming](https://link.springer.com/chapter/10.1007/978-3-319-23219-5_39)
+- [AIJ'2017] [Constrained clustering by constraint programming](https://www.sciencedirect.com/science/article/pii/S0004370215000806)
+- [ECAI'2016] [Repetitive branch-and-bound using constraint programming for constrained minimum sum-of-squares clustering](https://ebooks.iospress.nl/doi/10.3233/978-1-61499-672-9-462)
+- [CPAIOR'2020] [An Exact CP Approach for the Cardinality-Constrained Euclidean Minimum Sum-of-Squares Clustering Problem](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_17)
+- [AAAI'2017] [A framework for minimal clustering modification via constraint programming](https://ojs.aaai.org/index.php/AAAI/article/view/10765)
+- [CP'2017] [Constraint programming for multi-criteria conceptual clustering](https://link.springer.com/chapter/10.1007/978-3-319-66158-2_30)
+- [SEFM'2015] [Clustering Formulation Using Constraint Optimization](https://link.springer.com/chapter/10.1007/978-3-662-49224-6_9)
+  
 #### 1.3 Decision trees
+- [CP'2009] [Minimising Decision Tree Size as Combinatorial Optimisation](https://link.springer.com/chapter/10.1007/978-3-642-04244-7_16)
+- [Constraints'2020] [Learning optimal decision trees using constraint programming](https://link.springer.com/article/10.1007/s10601-020-09312-3)
+  
 #### 1.4 Bayesian networks
+- [AIJ'2017] [Integer Linear Programming for the {B}ayesian network structure learning problem](https://www.sciencedirect.com/science/article/pii/S0004370215000417)
+- [CP'2015] [Machine learning of Bayesian networks using constraint programming](https://link.springer.com/chapter/10.1007/978-3-319-23219-5_31)
+- [IJCAI'2021] [Improved Acyclicity Reasoning for Bayesian Network Structure Learning with Constraint Programming](https://hal.science/hal-03268019/)
+- [IDA'2015] [Constraint-Based Querying for {B}ayesian Network Exploration](https://link.springer.com/chapter/10.1007/978-3-319-24465-5_2)
+  
 #### 1.5 Neural networks
 
 ---
