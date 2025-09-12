@@ -65,8 +65,14 @@ This list categorizes key research directions in the the role of CP in enhancing
 
 ### 3. CP-based inference
 
-- REF
-- REF
-- REF
-
+- [Annual-Reviews'2022] [Safe learning in robotics: From learning-based control to safe reinforcement learning](https://www.annualreviews.org/content/journals/10.1146/annurev-control-042920-020211)
+- [CEUR-Workshop'2021] [Neuro-Symbolic Constraint Programming for Structured Prediction](https://iris.unitn.it/handle/11572/364929)
+- [CPAIOR'2020] [Hybrid Classification and Reasoning for Image-Based Constraint Solving](https://link.springer.com/chapter/10.1007/978-3-030-58942-4_24)
+- [Constraints'2024] [Perception-based constraint solving for sudoku images](https://link.springer.com/article/10.1007/s10601-024-09372-9)
+- [IJCAI'2025] [Constrained Sequential Inference in Machine Learning Using Constraint Programming](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/5386.pdf)
+- [IJCAI'2023] [Constraints First: A New MDD-based Model to Generate Sentences Under Constraints](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/210)
+- [IJCAI'2024] [Markov Constraint as Large Language Model Surrogate](https://hal.science/hal-04676241/)
+- [CP'2024] [Combining Constraint Programming Reasoning with Large Language Model Predictions](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.25)
+- [LAFM'2024] [Logic-based explainability: past, present and future](https://dl.acm.org/doi/abs/10.1007/978-3-031-75387-9_12)
+- [ECML-PKDD'2024] [Learning Model Agnostic Explanations via Constraint Programming](https://link.springer.com/chapter/10.1007/978-3-031-70359-1_26)
 ---
