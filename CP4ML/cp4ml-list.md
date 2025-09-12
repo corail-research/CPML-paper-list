@@ -51,9 +51,15 @@ This list categorizes key research directions in the the role of CP in enhancing
 ---
 ### 2. CP-based loss functions
 
-- REF
-- REF
-- REF
+- [ICML'2019] [SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://proceedings.mlr.press/v97/wang19e.html)
+- [NeurIPS'2022] [Semantic probabilistic layers for neuro-symbolic learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html)
+- [CPAIOR'2021] [Injecting Domain Knowledge in Neural Networks: A Controlled Experiment on a Constrained Problem](https://link.springer.com/chapter/10.1007/978-3-030-78230-6_17)
+- [AAAI'2021] [Teaching the old dog new tricks: Supervised learning with constraints](https://ojs.aaai.org/index.php/AAAI/article/view/16491)
+- [ICML'2020] [Deep Reasoning Networks for Unsupervised Pattern De-mixing with Constraint Reasoning](https://proceedings.mlr.press/v119/chen20a.html)
+- [CP'2021] [CLR-DRNets: Curriculum Learning with Restarts to Solve Visual Combinatorial Games](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2021.17)
+- [CP'2022] [Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2022.30)
+- [CPAIOR'2024] [An Improved Neuro-Symbolic Architecture to Fine-Tune Generative AI Systems](https://link.springer.com/chapter/10.1007/978-3-031-60599-4_19)
+- [CPAIOR'2025] [Shaping Reward Signals in Reinforcement Learning Using Constraint Programming](https://link.springer.com/chapter/10.1007/978-3-031-95976-9_16)
 
 ---
 
