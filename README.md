@@ -4,7 +4,11 @@ This repository aims to serve as a (hopefully) comprehensive list of publication
 
 # Contributing
 The initial set of references corresponds to those discussed in Section 3 of the survey. Over time, we hope the repository evolves into a living collection that reflects the growing body of research in this area.
-We encourage the community to contribute new references via pull requests. Contribution guidelines are provided below.
+We encourage the community to contribute new references via pull requests. Contribution guidelines are provided below:
+
+1. **Scope:** Only include methods that combine both Constraint Programming (CP) and Machine Learning (ML) within the same pipeline.
+2. **Format:** Add your entry in the correct section of the repository and follow the template below.
+3. **Pull Request:** Open a Pull Request with a clear title (e.g., Add [Venue'Year] Title). In the PR description, include 1–2 short paragraphs explaining why this paper belongs to the CP+ML field.
 
 # Paper list
 
