@@ -8,7 +8,7 @@ We encourage the community to contribute new references via pull requests. Contr
 
 1. **Scope:** Only include methods that combine both Constraint Programming (CP) and Machine Learning (ML) within the same pipeline.
 2. **Format:** Add your entry in the correct section of the repository and follow the template below.
-3. **Pull Request:** Open a Pull Request with a clear title (e.g., Add [Venue'Year] Title). In the PR description, include 1–2 short paragraphs explaining why this paper belongs to the CP+ML field.
+3. **Pull Request:** Open a pull request with a clear title (e.g., Add [Venue'Year] Title). In the PR description, include 1–2 short paragraphs explaining why this paper belongs to the CP+ML field.
 
 # Paper list
 
