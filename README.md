@@ -237,7 +237,18 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [JAIR'2019] [From support propagation to belief propagation in constraint programming](https://jair.org/index.php/jair/article/view/11487)
 - [CPAIOR'2023] [Exploiting Entropy in Constraint Programming](https://link.springer.com/chapter/10.1007/978-3-031-33271-5_21)
 
-#### 6.4 Skipping the search phase
+#### 6.4 Search with ant colony optimization
+
+- [IEEE-TSMC'1996] [Ant system: optimization by a colony of cooperating agents](https://ieeexplore.ieee.org/document/484436)
+- [IEEE-CIM'2007] [Ant colony optimization](https://ieeexplore.ieee.org/document/4129846)
+- [ANTS'2004] [Integrating ACO and Constraint Propagation](https://link.springer.com/chapter/10.1007/978-3-540-28646-2_15)
+- [ANTS'2008] [Integration of ACO in a Constraint Programming Language](https://link.springer.com/chapter/10.1007/978-3-540-87527-7_8)
+- [CPAIOR'2010] [https://link.springer.com/chapter/10.1007/978-3-642-13520-0_26](https://link.springer.com/chapter/10.1007/978-3-642-13520-0_26)
+- [HM'2013] [A Hybrid ACO+CP for Balancing Bicycle Sharing Systems](https://link.springer.com/chapter/10.1007/978-3-642-38516-2_16)
+- [CP'2020] [Solving the Group Cumulative Scheduling Problem with CPO and ACO](https://link.springer.com/chapter/10.1007/978-3-030-58475-7_36)
+- [Wiley'2013] [Ant Colony Optimization and Constraint Programming] (https://onlinelibrary.wiley.com/doi/book/10.1002/9781118557563)
+
+#### 6.5 Skipping the search phase
 - [CPAIOR'2018] [Model agnostic solution of CSPs via deep learning: A preliminary study](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_18)
 - [CP'2018] [Towards effective deep learning for constraint satisfaction problems](https://link.springer.com/chapter/10.1007/978-3-319-98334-9_38)
 - [CP'2023] [FastMapSVM for Predicting CSP Satisfiability](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.40)
