@@ -98,7 +98,14 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [CP'2011] [Neuron constraints to model complex real-world problems](https://link.springer.com/chapter/10.1007/978-3-642-23786-7_11)
 - [Constraints'2016] [A lagrangian propagator for artificial neural networks in constraint programming](https://link.springer.com/article/10.1007/s10601-015-9234-6)
 - [CPAIOR'2015] [Embedding decision trees and random forests in constraint programming](https://link.springer.com/chapter/10.1007/978-3-319-18008-3_6)
-
+- [CP'2005] [Spread: A balancing constraint based on statistics](https://link.springer.com/chapter/10.1007/11564751_35)
+- [EURO'2014] [Bound-consistent spread constraint](https://link.springer.com/article/10.1007/s13675-013-0018-8)
+- [CPAIOR'2007] [The Deviation Constraint](https://link.springer.com/chapter/10.1007/978-3-540-72397-4_19)
+- [CP'2007] [Bound-Consistent Deviation Constraint](https://link.springer.com/chapter/10.1007/978-3-540-74970-7_44)
+- [IJOC'2005] [Achieving Domain Consistency and Counting Solutions for Dispersion Constraints](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2015.0654?casa_token=X3Ghcly9L54AAAAA%3AM2sVNQp5h8XKs10QLQ2hX-qR7amsniwkR991BQqrRXCaNADcTM6cRBoNaUj4g7BpF0J2EFc8MFEA&journalCode=ijoc)
+- [Constraints'2010] [Markov constraints: steerable generation of Markov sequences](https://link.springer.com/article/10.1007/s10601-010-9101-4)
+- [CP'2004] [A Regular Language Membership Constraint for Finite Sequences of Variables](https://link.springer.com/chapter/10.1007/978-3-540-30201-8_36)
+- [Constraints'2006] [A Cost-Regular Based Hybrid Column Generation Approach](https://link.springer.com/article/10.1007/s10601-006-9003-7)
 ---
 
 ### 2. Learning to model - Learning the objective function 
