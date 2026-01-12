@@ -258,7 +258,7 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [CPAIOR'2010] [https://link.springer.com/chapter/10.1007/978-3-642-13520-0_26](https://link.springer.com/chapter/10.1007/978-3-642-13520-0_26)
 - [HM'2013] [A Hybrid ACO+CP for Balancing Bicycle Sharing Systems](https://link.springer.com/chapter/10.1007/978-3-642-38516-2_16)
 - [CP'2020] [Solving the Group Cumulative Scheduling Problem with CPO and ACO](https://link.springer.com/chapter/10.1007/978-3-030-58475-7_36)
-- [Wiley'2013] [Ant Colony Optimization and Constraint Programming] (https://onlinelibrary.wiley.com/doi/book/10.1002/9781118557563)
+- [Wiley'2013] [Ant Colony Optimization and Constraint Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118557563)
 
 #### 6.5 Skipping the search phase
 - [CPAIOR'2018] [Model agnostic solution of CSPs via deep learning: A preliminary study](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_18)
