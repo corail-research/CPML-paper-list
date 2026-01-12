@@ -21,7 +21,19 @@ All related references are listed following the template below:
 
 When available, a direct link to the paper is also provided. The structure of this repository mirrors the organization used in the survey paper.
 
+# Citing
 
+If this repository or the associated paper has been useful in your research, please consider citing it using the following BibTeX entry:
+
+```bibtex
+@article{cappart2025combining,
+  title={Combining Constraint Programming and Machine Learning: From Current Progress to Future Opportunities},
+  author={Cappart, Quentin and Guns, Tias and Lombardi, Michele and Pesant, Gilles and Tsouros, Dimos},
+  journal={Journal of Artificial Intelligence Research},
+  volume={84},
+  year={2025}
+}
+```
 # Paper list
 
 
