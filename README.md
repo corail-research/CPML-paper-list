@@ -236,6 +236,7 @@ This list categorizes key research directions in the the role of ML in enhancing
 - [CP'1998] [Using Constraint Programming and Local Search Methods to Solve Vehicle Routing Problems](https://link.springer.com/chapter/10.1007/3-540-49481-2_30)
 - [MISTA'2007] [Self-adapting large neighborhood search: Application to single-mode scheduling problems](https://www.semanticscholar.org/paper/Self-Adapting-Large-Neighborhood-Search%3A-to-Laborie-Godard/f0b2d8d701f0bb14a47dcde59ca2884120b7f26c)
 - [CPAIOR'2018] [Revisiting the self-adaptive large neighborhood search](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_40)
+- [ICML'2026] [Generative Large Neighborhood Search: Scalable Set Cover Optimization via Discrete Diffusion](https://openreview.net/forum?id=zU2ZZB5wmF)
 
 #### 6.2 Monte-Carlo tree search
 - [ICCG'2006] [Efficient selectivity and backup operators in Monte-Carlo tree search](https://link.springer.com/chapter/10.1007/978-3-540-75538-8_7)
